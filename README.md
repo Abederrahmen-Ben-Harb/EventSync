@@ -25,7 +25,7 @@ My Profile Views :
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own PHP Framework 
-- 🌱 I’m currently learning Vue JS
-- 💬 Ask me about PHP 
-- ⚡ Fun fact: i hate javascript ! 
+- 🔭 I’m currently working on my own Project 
+- 🌱 I’m currently learning React JS
+- 💬 Ask me about Java 
+- ⚡ Fun fact: i hate PHP ! 
